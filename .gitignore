@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+
+# Local only (not for public repo)
+experiments/
+scripts/
+results/
+dataset/
+
+# IDE
+.vscode/
+.idea/
